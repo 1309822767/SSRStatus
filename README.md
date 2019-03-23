@@ -15,7 +15,7 @@
 
 执行下面的代码下载并运行脚本。
 ```Bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/1309822767/SSRStatus/master/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus.sh
 
 # 如果上面这个脚本无法下载，尝试使用备用下载：
 wget -N --no-check-certificate https://softsmirror.cf/Bash/ssrstatus.sh && chmod +x ssrstatus.sh && bash ssrstatus.sh
